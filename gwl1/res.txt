@@ -1,0 +1,525 @@
+./Dataset/gwl-daily.csv
+WLM_RPE - Coeficcient: 8.011840547938313e-19
+WLM_GSE - Coeficcient: 181.1220588405804
+RPE_WSE - Coeficcient: -278.8587390740397
+GSE_WSE - Coeficcient: -180.10555375415635
+WSE - Coeficcient: -459.96229044756853
+
+
+Independent term: 8417.138
+Explained variance regression score: 0.991
+Maximum residual error: 7.382
+Mean squared error: 2.150
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+WLM_RPE - Coeficcient: 1.8576338152872408e-25
+WLM_GSE - Coeficcient: 0.48764591730644674
+RPE_WSE - Coeficcient: 0.22702876265697325
+GSE_WSE - Coeficcient: 0.5310047167425158
+WSE - Coeficcient: -0.2400827274547987
+
+
+Independent term: -7.409
+Explained variance regression score: 0.991
+Maximum residual error: 7.384
+Mean squared error: 2.150
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+WLM_RPE - Coeficcient: -4.439181079539463e-22
+WLM_GSE - Coeficcient: 54.04839205549966
+RPE_WSE - Coeficcient: 20.671369228771344
+GSE_WSE - Coeficcient: -53.03006153580017
+WSE - Coeficcient: -33.35677532389351
+
+
+Independent term: -624.532
+Explained variance regression score: 0.991
+Maximum residual error: 7.384
+Mean squared error: 2.151
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+Explained variance regression score: 0.991
+Maximum residual error: 7.425
+Mean squared error: 2.183
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.478
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.273789461416148
+GSE_WSE - Coeficcient: 0.6054801868803129
+WSE - Coeficcient: -0.11564032932991056
+
+
+Independent term: 3.422
+Explained variance regression score: 0.991
+Maximum residual error: 7.026
+Mean squared error: 2.062
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.436
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.29846654393550975
+GSE_WSE - Coeficcient: 0.6301225811916819
+WSE - Coeficcient: -0.06674063161500397
+
+
+Independent term: 1.947
+Explained variance regression score: 0.991
+Maximum residual error: 7.038
+Mean squared error: 2.053
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.433
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 0.0
+WSE - Coeficcient: -0.7602202881315785
+
+
+Independent term: 29.249
+Explained variance regression score: 0.929
+Maximum residual error: 15.584
+Mean squared error: 17.237
+Coeficcient of determination: 0.927
+Root-mean-square deviation: 4.152
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 1.0187197391001799
+WSE - Coeficcient: 0.02060298370299929
+
+
+Independent term: -0.558
+Explained variance regression score: 0.991
+Maximum residual error: 7.384
+Mean squared error: 2.150
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.5273966990708787
+RPE_WSE - Coeficcient: 0.7466699007215377
+GSE_WSE - Coeficcient: 0.2503754497504601
+WSE - Coeficcient: -0.0
+
+
+Independent term: -15.956
+Explained variance regression score: 0.991
+Maximum residual error: 7.137
+Mean squared error: 2.038
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.428
+WLM_RPE - Coeficcient: -0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.3442345613153379
+GSE_WSE - Coeficcient: 0.6516280925699189
+WSE - Coeficcient: -0.0
+
+
+Independent term: -0.071
+Explained variance regression score: 0.991
+Maximum residual error: 7.041
+Mean squared error: 2.045
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.430
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 0.9980213120738233
+WSE - Coeficcient: 0.0
+
+
+Independent term: 0.056
+Explained variance regression score: 0.991
+Maximum residual error: 7.361
+Mean squared error: 2.135
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.461
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 0.9980186247244864
+WSE - Coeficcient: 0.0
+
+
+Independent term: 0.056
+Explained variance regression score: 0.991
+Maximum residual error: 7.361
+Mean squared error: 2.135
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.461
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 172.69264508053524
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: -171.67538574767897
+WSE - Coeficcient: -172.67340576096205
+
+
+Independent term: -0.515
+Explained variance regression score: 0.991
+Maximum residual error: 7.383
+Mean squared error: 2.150
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 0.0
+WSE - Coeficcient: -0.9935889831088255
+
+
+Independent term: 29.633
+Explained variance regression score: 0.991
+Maximum residual error: 6.392
+Mean squared error: 2.693
+Coeficcient of determination: 0.989
+Root-mean-square deviation: 1.641
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 181.1221597311988
+RPE_WSE - Coeficcient: -278.8726326422005
+GSE_WSE - Coeficcient: -180.10565467963022
+WSE - Coeficcient: -459.9762849402664
+
+
+Independent term: 8417.557
+Explained variance regression score: 0.991
+Maximum residual error: 7.382
+Mean squared error: 2.150
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+WLM_RPE - Coeficcient: 5.000424691385316e-26
+WLM_GSE - Coeficcient: 0.005598035286281533
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 0.9980649236319419
+WSE - Coeficcient: 0.0
+
+
+Independent term: -0.112
+Explained variance regression score: 0.991
+Maximum residual error: 7.367
+Mean squared error: 2.139
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.463
+WLM_RPE - Coeficcient: 3.223637395416277e-26
+WLM_GSE - Coeficcient: 0.42621935749612333
+RPE_WSE - Coeficcient: 0.20175573220555457
+GSE_WSE - Coeficcient: 0.5920497218520274
+WSE - Coeficcient: -0.20430890311323166
+
+
+Independent term: -6.635
+Explained variance regression score: 0.991
+Maximum residual error: 7.383
+Mean squared error: 2.150
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.466
+WLM_RPE - Coeficcient: -0.14095325387975421
+WLM_GSE - Coeficcient: 0.39079046231036696
+RPE_WSE - Coeficcient: 0.10881486493469665
+GSE_WSE - Coeficcient: 0.6405446609989469
+WSE - Coeficcient: -0.24977071341613138
+
+
+Independent term: -0.005
+Explained variance regression score: 0.991
+Maximum residual error: 7.437
+Mean squared error: 2.188
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.479
+WLM_RPE - Coeficcient: 0.0
+WLM_GSE - Coeficcient: 0.0
+RPE_WSE - Coeficcient: 0.0
+GSE_WSE - Coeficcient: 1.0034834834834836
+WSE - Coeficcient: 0.0
+
+
+Independent term: 0.107
+Explained variance regression score: 0.992
+Maximum residual error: 7.131
+Mean squared error: 2.002
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.415
+WLM_RPE - Coeficcient: -0.10886370799551778
+WLM_GSE - Coeficcient: 0.3588641735480114
+RPE_WSE - Coeficcient: 0.13977344818321782
+GSE_WSE - Coeficcient: 0.6073482536126397
+WSE - Coeficcient: -0.24899754994409412
+
+
+Independent term: -0.004
+Explained variance regression score: 0.991
+Maximum residual error: 7.453
+Mean squared error: 2.173
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.474
+Explained variance regression score: 0.991
+Maximum residual error: 7.413
+Mean squared error: 2.169
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.473
+WLM_RPE - Coeficcient: 1.2949231725811293e-08
+WLM_GSE - Coeficcient: 0.01856877074635084
+RPE_WSE - Coeficcient: 0.0017685781795223007
+GSE_WSE - Coeficcient: 0.020382464114487686
+WSE - Coeficcient: -0.001769590287918117
+
+
+Independent term: 2.012
+Explained variance regression score: 0.914
+Maximum residual error: 15.982
+Mean squared error: 26.566
+Coeficcient of determination: 0.887
+Root-mean-square deviation: 5.154
+WLM_RPE - Coeficcient: 5.85074204652148e-05
+WLM_GSE - Coeficcient: 0.16768865932965069
+RPE_WSE - Coeficcient: 0.2760163221052984
+GSE_WSE - Coeficcient: 0.4436543722659412
+WSE - Coeficcient: -0.27595760096003774
+
+
+Independent term: 3.180
+Explained variance regression score: 0.991
+Maximum residual error: 7.005
+Mean squared error: 2.054
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.433
+WLM_RPE - Coeficcient: -3.883131069893007e-06
+WLM_GSE - Coeficcient: 0.0047240317311707134
+RPE_WSE - Coeficcient: 0.00820296183290588
+GSE_WSE - Coeficcient: 0.012918087483114057
+WSE - Coeficcient: -0.008205867628382442
+
+
+Independent term: 2.426
+Explained variance regression score: 0.910
+Maximum residual error: 22.177
+Mean squared error: 23.427
+Coeficcient of determination: 0.900
+Root-mean-square deviation: 4.840
+WLM_RPE - Coeficcient: -0.13196019031284548
+WLM_GSE - Coeficcient: 0.3846460745361838
+RPE_WSE - Coeficcient: 0.10943275084047437
+GSE_WSE - Coeficcient: 0.6258474717550552
+WSE - Coeficcient: -0.2414392548191609
+
+
+Independent term: -0.004
+Explained variance regression score: 0.990
+Maximum residual error: 8.537
+Mean squared error: 2.787
+Coeficcient of determination: 0.988
+Root-mean-square deviation: 1.669
+Performing stepwise search to minimize aic
+ ARIMA(1,0,1)(0,1,1)[6] intercept   : AIC=inf, Time=30.74 sec
+ ARIMA(0,0,0)(0,1,0)[6] intercept   : AIC=63147.826, Time=0.43 sec
+ ARIMA(1,0,0)(1,1,0)[6] intercept   : AIC=38384.981, Time=8.29 sec
+ ARIMA(0,0,1)(0,1,1)[6] intercept   : AIC=inf, Time=20.96 sec
+ ARIMA(0,0,0)(0,1,0)[6]             : AIC=63145.827, Time=0.24 sec
+ ARIMA(1,0,0)(0,1,0)[6] intercept   : AIC=41141.685, Time=1.46 sec
+ ARIMA(1,0,0)(2,1,0)[6] intercept   : AIC=37430.634, Time=18.52 sec
+ ARIMA(1,0,0)(2,1,1)[6] intercept   : AIC=inf, Time=115.60 sec
+ ARIMA(1,0,0)(1,1,1)[6] intercept   : AIC=inf, Time=34.28 sec
+ ARIMA(0,0,0)(2,1,0)[6] intercept   : AIC=61981.351, Time=6.46 sec
+ ARIMA(2,0,0)(2,1,0)[6] intercept   : AIC=35558.648, Time=20.34 sec
+ ARIMA(2,0,0)(1,1,0)[6] intercept   : AIC=36496.275, Time=9.50 sec
+ ARIMA(2,0,0)(2,1,1)[6] intercept   : AIC=inf, Time=60.36 sec
+ ARIMA(2,0,0)(1,1,1)[6] intercept   : AIC=inf, Time=35.49 sec
+ ARIMA(3,0,0)(2,1,0)[6] intercept   : AIC=35532.194, Time=22.20 sec
+ ARIMA(3,0,0)(1,1,0)[6] intercept   : AIC=36452.296, Time=14.87 sec
+ ARIMA(3,0,0)(2,1,1)[6] intercept   : AIC=inf, Time=79.13 sec
+ ARIMA(3,0,0)(1,1,1)[6] intercept   : AIC=inf, Time=51.10 sec
+ ARIMA(3,0,1)(2,1,0)[6] intercept   : AIC=inf, Time=72.73 sec
+ ARIMA(2,0,1)(2,1,0)[6] intercept   : AIC=35528.688, Time=29.82 sec
+ ARIMA(2,0,1)(1,1,0)[6] intercept   : AIC=36444.853, Time=16.23 sec
+ ARIMA(2,0,1)(2,1,1)[6] intercept   : AIC=inf, Time=72.79 sec
+ ARIMA(2,0,1)(1,1,1)[6] intercept   : AIC=inf, Time=53.83 sec
+ ARIMA(1,0,1)(2,1,0)[6] intercept   : AIC=35899.522, Time=20.65 sec
+ ARIMA(2,0,2)(2,1,0)[6] intercept   : AIC=35528.513, Time=38.74 sec
+ ARIMA(2,0,2)(1,1,0)[6] intercept   : AIC=36444.774, Time=20.91 sec
+ ARIMA(2,0,2)(2,1,1)[6] intercept   : AIC=inf, Time=82.14 sec
+ ARIMA(2,0,2)(1,1,1)[6] intercept   : AIC=inf, Time=53.51 sec
+ ARIMA(1,0,2)(2,1,0)[6] intercept   : AIC=35662.549, Time=23.84 sec
+ ARIMA(3,0,2)(2,1,0)[6] intercept   : AIC=inf, Time=101.23 sec
+ ARIMA(2,0,3)(2,1,0)[6] intercept   : AIC=35518.075, Time=44.46 sec
+ ARIMA(2,0,3)(1,1,0)[6] intercept   : AIC=36422.944, Time=22.75 sec
+ ARIMA(2,0,3)(2,1,1)[6] intercept   : AIC=inf, Time=97.78 sec
+ ARIMA(2,0,3)(1,1,1)[6] intercept   : AIC=inf, Time=91.36 sec
+ ARIMA(1,0,3)(2,1,0)[6] intercept   : AIC=35537.757, Time=28.86 sec
+ ARIMA(3,0,3)(2,1,0)[6] intercept   : AIC=inf, Time=86.06 sec
+ ARIMA(2,0,3)(2,1,0)[6]             : AIC=35516.075, Time=14.91 sec
+ ARIMA(2,0,3)(1,1,0)[6]             : AIC=36420.944, Time=7.15 sec
+ ARIMA(2,0,3)(2,1,1)[6]             : AIC=inf, Time=55.99 sec
+ ARIMA(2,0,3)(1,1,1)[6]             : AIC=inf, Time=31.62 sec
+ ARIMA(1,0,3)(2,1,0)[6]             : AIC=35535.757, Time=10.32 sec
+ ARIMA(2,0,2)(2,1,0)[6]             : AIC=35526.513, Time=12.62 sec
+ ARIMA(3,0,3)(2,1,0)[6]             : AIC=inf, Time=39.49 sec
+ ARIMA(1,0,2)(2,1,0)[6]             : AIC=35660.549, Time=9.73 sec
+ ARIMA(3,0,2)(2,1,0)[6]             : AIC=inf, Time=32.91 sec
+
+Best model:  ARIMA(2,0,3)(2,1,0)[6]          
+Total fit time: 1702.545 seconds
+1. ADF:  -9.26354443340079
+2. P-Value:  1.3863427005913239e-15
+3. Num of Lags:  36
+4. Num of Observations Used for ADF Regression and Critical Values Calculation:  10672
+5. Critical Values: 
+	 1% :  -3.4309629004496336
+	 5% :  -2.8618108674185434
+	 10% :  -2.566914177587345
+Performing stepwise search to minimize aic
+ ARIMA(2,1,2)(0,0,0)[0] intercept   : AIC=32990.548, Time=13.08 sec
+ ARIMA(0,1,0)(0,0,0)[0] intercept   : AIC=35248.497, Time=0.31 sec
+ ARIMA(1,1,0)(0,0,0)[0] intercept   : AIC=33039.679, Time=0.98 sec
+ ARIMA(0,1,1)(0,0,0)[0] intercept   : AIC=33467.044, Time=1.73 sec
+ ARIMA(0,1,0)(0,0,0)[0]             : AIC=35246.497, Time=0.22 sec
+ ARIMA(1,1,2)(0,0,0)[0] intercept   : AIC=32984.714, Time=4.85 sec
+ ARIMA(0,1,2)(0,0,0)[0] intercept   : AIC=33186.058, Time=2.08 sec
+ ARIMA(1,1,1)(0,0,0)[0] intercept   : AIC=33003.217, Time=2.78 sec
+ ARIMA(1,1,3)(0,0,0)[0] intercept   : AIC=32940.781, Time=10.41 sec
+ ARIMA(0,1,3)(0,0,0)[0] intercept   : AIC=33024.449, Time=3.34 sec
+ ARIMA(2,1,3)(0,0,0)[0] intercept   : AIC=32916.094, Time=20.87 sec
+ ARIMA(3,1,3)(0,0,0)[0] intercept   : AIC=32911.915, Time=32.55 sec
+ ARIMA(3,1,2)(0,0,0)[0] intercept   : AIC=inf, Time=23.40 sec
+ ARIMA(4,1,3)(0,0,0)[0] intercept   : AIC=32918.942, Time=31.78 sec
+ ARIMA(3,1,4)(0,0,0)[0] intercept   : AIC=32881.207, Time=27.03 sec
+ ARIMA(2,1,4)(0,0,0)[0] intercept   : AIC=32897.263, Time=21.61 sec
+ ARIMA(4,1,4)(0,0,0)[0] intercept   : AIC=32882.789, Time=40.82 sec
+ ARIMA(3,1,5)(0,0,0)[0] intercept   : AIC=32882.694, Time=47.72 sec
+ ARIMA(2,1,5)(0,0,0)[0] intercept   : AIC=32894.276, Time=30.67 sec
+ ARIMA(4,1,5)(0,0,0)[0] intercept   : AIC=32883.989, Time=48.80 sec
+ ARIMA(3,1,4)(0,0,0)[0]             : AIC=32879.207, Time=5.16 sec
+ ARIMA(2,1,4)(0,0,0)[0]             : AIC=32895.263, Time=3.56 sec
+ ARIMA(3,1,3)(0,0,0)[0]             : AIC=32909.837, Time=4.63 sec
+ ARIMA(4,1,4)(0,0,0)[0]             : AIC=32880.684, Time=6.08 sec
+ ARIMA(3,1,5)(0,0,0)[0]             : AIC=32880.694, Time=5.77 sec
+ ARIMA(2,1,3)(0,0,0)[0]             : AIC=32914.094, Time=2.99 sec
+ ARIMA(2,1,5)(0,0,0)[0]             : AIC=32885.886, Time=6.44 sec
+ ARIMA(4,1,3)(0,0,0)[0]             : AIC=32916.952, Time=5.11 sec
+ ARIMA(4,1,5)(0,0,0)[0]             : AIC=32881.987, Time=7.18 sec
+
+Best model:  ARIMA(3,1,4)(0,0,0)[0]          
+Total fit time: 411.986 seconds
+Performing stepwise search to minimize oob
+ ARIMA(2,1,2)(1,0,1)[7] intercept   : OOB=3738.976, Time=63.27 sec
+ ARIMA(0,1,0)(0,0,0)[7] intercept   : OOB=517.928, Time=10.90 sec
+ ARIMA(1,1,0)(1,0,0)[7] intercept   : OOB=439.902, Time=47.90 sec
+ ARIMA(0,1,1)(0,0,1)[7] intercept   : OOB=487.272, Time=36.38 sec
+ ARIMA(0,1,0)(0,0,0)[7]             : OOB=517.928, Time=11.04 sec
+ ARIMA(1,1,0)(0,0,0)[7] intercept   : OOB=464.766, Time=15.06 sec
+ ARIMA(1,1,0)(2,0,0)[7] intercept   : OOB=427.735, Time=61.64 sec
+ ARIMA(1,1,0)(3,0,0)[7] intercept   : OOB=425.084, Time=131.86 sec
+ ARIMA(1,1,0)(4,0,0)[7] intercept   : OOB=424.074, Time=165.81 sec
+ ARIMA(1,1,0)(4,0,1)[7] intercept   : OOB=426.622, Time=146.14 sec
+ ARIMA(1,1,0)(3,0,1)[7] intercept   : OOB=426.917, Time=105.27 sec
+ ARIMA(0,1,0)(4,0,0)[7] intercept   : OOB=463.219, Time=135.11 sec
+ ARIMA(2,1,0)(4,0,0)[7] intercept   : OOB=424.998, Time=197.86 sec
+ ARIMA(1,1,1)(4,0,0)[7] intercept   : OOB=425.385, Time=148.48 sec
+ ARIMA(0,1,1)(4,0,0)[7] intercept   : OOB=453.763, Time=122.17 sec
+ ARIMA(2,1,1)(4,0,0)[7] intercept   : OOB=468.350, Time=156.15 sec
+ ARIMA(1,1,0)(4,0,0)[7]             : OOB=424.074, Time=162.61 sec
+
+Best model:  ARIMA(1,1,0)(4,0,0)[7]          
+Total fit time: 1717.731 seconds
+Explained variance regression score: 0.991
+Maximum residual error: 7.000
+Mean squared error: 2.083
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.443
+Explained variance regression score: 0.983
+Maximum residual error: 8.158
+Mean squared error: 4.017
+Coeficcient of determination: 0.983
+Root-mean-square deviation: 2.004
+Explained variance regression score: 0.909
+Maximum residual error: 16.496
+Mean squared error: 22.331
+Coeficcient of determination: 0.905
+Root-mean-square deviation: 4.726
+Explained variance regression score: 0.974
+Maximum residual error: 11.973
+Mean squared error: 6.171
+Coeficcient of determination: 0.974
+Root-mean-square deviation: 2.484
+Explained variance regression score: 0.973
+Maximum residual error: 11.973
+Mean squared error: 6.435
+Coeficcient of determination: 0.973
+Root-mean-square deviation: 2.537
+Explained variance regression score: 0.976
+Maximum residual error: 10.711
+Mean squared error: 5.744
+Coeficcient of determination: 0.976
+Root-mean-square deviation: 2.397
+Explained variance regression score: 0.990
+Maximum residual error: 8.160
+Mean squared error: 2.588
+Coeficcient of determination: 0.989
+Root-mean-square deviation: 1.609
+Explained variance regression score: 0.991
+Maximum residual error: 7.256
+Mean squared error: 2.075
+Coeficcient of determination: 0.991
+Root-mean-square deviation: 1.440
+1/5 [=====>........................] - ETA: 1s5/5 [==============================] - 0s 948us/step
+Explained variance regression score: 0.987
+Maximum residual error: 9.692
+Mean squared error: 3.048
+Coeficcient of determination: 0.987
+Root-mean-square deviation: 1.746
+encoding labels...
+[2856. 2874. 2896. ... 3700. 3646. 3605.]
+casting to float32...
+[[  30.186   30.016   16.279 2856.      13.907]
+ [  30.186   30.016   16.35  2874.      13.836]
+ [  30.186   30.016   16.421 2896.      13.765]
+ [  30.186   30.016   16.492 2920.      13.694]
+ [  30.186   30.016   16.564 2945.      13.622]]
+fitting and transforming to scale <class 'sklearn.preprocessing._data.RobustScaler'>...
+[[ 0.          0.         -0.2826336  -0.32908332  0.2826335 ]
+ [ 0.          0.         -0.27894408 -0.3251264   0.27894408]
+ [ 0.          0.         -0.27525467 -0.32029018  0.2752546 ]
+ [ 0.          0.         -0.27156514 -0.3150143   0.27156514]
+ [ 0.          0.         -0.2678238  -0.30951858  0.2678237 ]]
+1/5 [=====>........................] - ETA: 1s5/5 [==============================] - 0s 1ms/step
+inversed inv_yhat with scale <class 'sklearn.preprocessing._data.RobustScaler'>
+inversed inv_y with scale <class 'sklearn.preprocessing._data.RobustScaler'>
+Explained variance regression score: 0.991
+Maximum residual error: 0.202
+Mean squared error: 0.005
+Coeficcient of determination: 0.985
+Root-mean-square deviation: 0.072
+encoding labels...
+[2856. 2874. 2896. ... 3700. 3646. 3605.]
+casting to float32...
+[[  30.186   30.016   16.279 2856.      13.907]
+ [  30.186   30.016   16.35  2874.      13.836]
+ [  30.186   30.016   16.421 2896.      13.765]
+ [  30.186   30.016   16.492 2920.      13.694]
+ [  30.186   30.016   16.564 2945.      13.622]]
+fitting and transforming to scale <class 'sklearn.preprocessing._data.MinMaxScaler'>...
+[[0.         1.         0.09537987 0.30650353 0.9046201 ]
+ [0.         1.         0.09607076 0.3084353  0.90392923]
+ [0.         1.         0.09676162 0.31079632 0.90323836]
+ [0.         1.         0.09745251 0.31337196 0.9025475 ]
+ [0.         1.         0.09815311 0.31605494 0.9018469 ]]
+1/5 [=====>........................] - ETA: 1s5/5 [==============================] - 0s 1ms/step
+inversed inv_yhat with scale <class 'sklearn.preprocessing._data.MinMaxScaler'>
+inversed inv_y with scale <class 'sklearn.preprocessing._data.MinMaxScaler'>
+Explained variance regression score: 0.992
+Maximum residual error: 0.144
+Mean squared error: 0.001
+Coeficcient of determination: 0.989
+Root-mean-square deviation: 0.031
+fitting and transforming to scale <class 'sklearn.preprocessing._data.MaxAbsScaler'>...
+[[1.         1.         0.14901368 0.14768737 0.1759066 ]
+ [1.         1.         0.1496636  0.1483383  0.17500854]
+ [1.         1.         0.15031352 0.14898923 0.17411047]
+ [1.         1.         0.15096343 0.14964016 0.17321241]
+ [1.         1.         0.1516225  0.15030025 0.1723017 ]]
+1/5 [=====>........................] - ETA: 1s5/5 [==============================] - 0s 969us/step
+inversed inv_yhat with scale <class 'sklearn.preprocessing._data.MaxAbsScaler'>
+inversed inv_y with scale <class 'sklearn.preprocessing._data.MaxAbsScaler'>
+Explained variance regression score: 0.991
+Maximum residual error: 4.530
+Mean squared error: 3.894
+Coeficcient of determination: 0.893
+Root-mean-square deviation: 1.973

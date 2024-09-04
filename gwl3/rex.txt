@@ -1,0 +1,50 @@
+Date
+2020-06-06     0.00
+2020-06-07     0.00
+2015-03-25   -11.66
+2015-01-30   -11.68
+2016-06-15   -11.72
+Name: Depth_to_Groundwater_LT2, dtype: float64
+Date
+2020-06-07    0.00
+2020-06-26    0.00
+2020-06-05    0.00
+2020-06-06    0.00
+2018-03-20   -3.95
+Name: Depth_to_Groundwater_CoS, dtype: float64
+Date
+2020-06-12    0.0
+2020-06-16    0.0
+2020-06-11    0.0
+2020-06-07    0.0
+2020-06-13    0.0
+2020-06-26    0.0
+Name: Depth_to_Groundwater_SAL, dtype: float64
+the shape of the dataframe for training is (128, 18) :
+the shape of the dataframe for testing is (37, 18) :
+the train dataframe contain 77.57575757575758% of the data :
+['Volume_POL_log10', 'Volume_CC1_log10', 'Volume_CC2_log10', 'Volume_CSA_log10', 'Volume_CSAL_log10', 'effective_rainfall', 'effective_rainfall_s2', 'Hydrometry_Monte_S_Quirico_s1', 'Hydrometry_Piaggione_s1', 'Depth_to_Groundwater_DIEC_s1']
+Fitting 12 folds for each of 4 candidates, totalling 48 fits
+0.36560585104732235
+{'copy_X': True, 'fit_intercept': True}
+LinearRegression()
+R2 (explained variance): 0.62
+Mean Absolute Perc Error (Σ(|y-pred|/y)/n): 0.04516578161522501
+Mean Absolute Error (Σ|y-pred|/n): 0.234544
+Root Mean Squared Error (sqrt(Σ(y-pred)^2/n)): 0.274123
+Max Error: -0.6845051029734268
+The model explains 62.0% of the variance of the target variable.
+On average, predictions have an error of 0.23, or they’re wrong by 4.52%.
+The biggest error on the test set was over 0.27.
+Fitting 12 folds for each of 108 candidates, totalling 1296 fits
+0.6183018229840281
+{'alpha': 1, 'tol': 1e-09}
+Ridge(alpha=1, tol=1e-09)
+R2 (explained variance): 0.92
+Mean Absolute Perc Error (Σ(|y-pred|/y)/n): 0.04821386511015494
+Mean Absolute Error (Σ|y-pred|/n): 0.271595
+Root Mean Squared Error (sqrt(Σ(y-pred)^2/n)): 0.324449
+Max Error: 0.6298743886066216
+The model explains 92.0% of the variance of the target variable.
+On average, predictions have an error of 0.27, or they’re wrong by 4.82%.
+The biggest error on the test set was over 0.32.
