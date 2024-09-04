@@ -1,4 +1,4 @@
-# PGround Water Level Prediction
+# Ground Water Level Prediction
 
 This repository contains the code and data for predicting ground water levels using various machine learning models. We have explored and implemented the following models:
 
